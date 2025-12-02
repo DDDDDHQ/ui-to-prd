@@ -1,0 +1,5 @@
+{
+  "name": "UI 转 PRD 生成器",
+  "description": "上传 UI 截图，利用 Gemini Vision 自动生成产品需求文档 (PRD) 表格。识别功能点、区域，支持编辑导出。",
+  "requestFramePermissions": []
+}
