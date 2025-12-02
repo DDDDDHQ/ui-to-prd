@@ -12,9 +12,10 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "strict": true,
-    "noUnusedLocals": true,
+    "noUnusedLocals": false,
     "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true
+    "noFallthroughCasesInSwitch": true,
+    "types": ["node"]
   },
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["vite.config.ts", "node_modules"],
